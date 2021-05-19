@@ -100,10 +100,10 @@ p{
   text-align: center;
 }
 .about-author img{
-  width: 500px;
-  height: 500px;
+  width: 200px;
+  height: 200px;
   vertical-align: middle;
-  border-radius: 500px;
+  border-radius: 200px;
 }
 .post-container:nth-child(even){
   background-color: #f2f2f2;
