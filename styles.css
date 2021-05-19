@@ -68,8 +68,8 @@ a:hover{
   padding: 60px 0;
 }
 .post-author img{
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   vertical-align: middle;
   border-radius: 50px;
 }
@@ -100,8 +100,8 @@ p{
   text-align: center;
 }
 .about-author img{
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   vertical-align: middle;
   border-radius: 50px;
 }
