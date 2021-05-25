@@ -105,6 +105,19 @@ p{
   vertical-align: middle;
   border-radius: 200px;
 }
+.post, .vote{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+.vote{
+  text-align: center;
+}
+.vote-author img{
+  width: 200px;
+  height: 100px;
+  vertical-align: middle;
+}
 .post-container:nth-child(even){
   background-color: #f2f2f2;
 }
