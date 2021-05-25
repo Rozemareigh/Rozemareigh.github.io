@@ -114,8 +114,8 @@ p{
   text-align: center;
 }
 .vote-author img{
-  width: 200px;
-  height: 100px;
+  width: 600px;
+  height: 300px;
   vertical-align: middle;
 }
 .post-container:nth-child(even){
